@@ -3,6 +3,7 @@ This is a web application containing basic banking options i.e., transfer money 
 It contains 10 dummy users.A new dummy user can also be created.
  
 This project was a part of The Sparks Foundation Internship.
+LinkedIn Post:https://www.linkedin.com/posts/activity-6823110094130057216-nj83?utm_source=share&utm_medium=member_desktop
 
 
 Stack used - 
